@@ -36,5 +36,21 @@ This includes:
 -	You should use the DAO design pattern for data connectivity.
 
 
-This Output includes an example of a customer's information being stored in a database after registering for an account with the bank :
+This Output includes an example of a customer's information being stored in a database after registering for an account with Roger's Bank of America :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
