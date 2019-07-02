@@ -1,4 +1,4 @@
-# Project-Banking-App
+# Project-Java-Banking-App
 
 Description:
 
