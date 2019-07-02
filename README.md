@@ -73,7 +73,7 @@ The following picture below exemplifies when a customer decides to transfer fund
 account :
 ![1 7-customerTransferToSavings](https://user-images.githubusercontent.com/20470279/60502780-6aa40780-9c8c-11e9-8673-7df72ec08d69.JPG)
 
-The following picture below shows confirmation that the funds were transferred and the correct amount shows in the Checking account and in the Savings account : 
+The following picture below shows confirmation that the funds were transferred and the correct amount is displayed in the Checking account and in the Savings account : 
 
 ![1 7-MoneyTransferred](https://user-images.githubusercontent.com/20470279/60502790-6d066180-9c8c-11e9-962f-53c41138e22a.JPG)
 
