@@ -58,9 +58,24 @@ The following picture below is an example of when a customer chooses to add a Sa
 ![1 5-customerAddSavingsAcct](https://user-images.githubusercontent.com/20470279/60501938-deddab80-9c8a-11e9-92cf-9d6a5e6227f1.JPG)
 
 The following picture below is an example of when a customer deposits money into their Checking account : 
+
 ![1 6-CustomerDeposits](https://user-images.githubusercontent.com/20470279/60501948-e2713280-9c8a-11e9-94b8-6b2648ae1d75.JPG)
 
+The following picture below shows confirmation that the customer's accounts have been created, both Checking and Savings. (Checking account ID =6; Savings account =7) : 
 
+![1 6-Customer'sChckng SvngsAcctIDs](https://user-images.githubusercontent.com/20470279/60502767-64ae2680-9c8c-11e9-9f36-cd00dfd4b950.JPG)
+
+The following picture below shows the money deposited in the Oracle Database for the checking account :
+
+![1 6-moneyDeposited](https://user-images.githubusercontent.com/20470279/60502774-67108080-9c8c-11e9-9774-5b70a75c2dcc.JPG)
+
+The following picture below exemplifies when a customer decides to transfer funds from their Checking account to their Savings
+account :
+![1 7-customerTransferToSavings](https://user-images.githubusercontent.com/20470279/60502780-6aa40780-9c8c-11e9-8673-7df72ec08d69.JPG)
+
+The following picture below shows confirmation that the funds were transferred and the correct amount shows in the Checking account and in the Savings account : 
+
+![1 7-MoneyTransferred](https://user-images.githubusercontent.com/20470279/60502790-6d066180-9c8c-11e9-962f-53c41138e22a.JPG)
 
 
 
