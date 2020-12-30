@@ -28,7 +28,7 @@ Details:
 •	Logging was accomplished using Log4J
 •	All transactions are logged
 
--	Create an SQL script that will create a user in an SQL database and a table schema for storing your bank users and account information.
+-	Create an SQL script that will create a user in Oracle database and a table schema for storing your bank users and account information.
 -	Your database should include at least 1 stored procedure.
 -	Have your bank application connect to your SQL database using JDBC and store all information that way.
 -	You should use the DAO design pattern for data connectivity.
