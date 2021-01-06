@@ -10,7 +10,7 @@ This application simulates an instance where a customer registers for an account
   
  	Implemented Hash Code method in my JavaBeans API to generate account ID for users in my account table in Oracle.
 
- 	This database includes at least 1 or more stored procedures for real-time application use.
+ 	This database includes at least 1 or more stored procedures for efficiency in time and space complexity.
 
  	This bank application connects to the SQL database using JDBC and stores all information that way.
 
