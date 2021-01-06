@@ -54,7 +54,7 @@ This application simulates an instance where a customer registers for an account
 •	Log each session (Log4J) so ALL transactions are logged.
 
 
-# Customer registers for a checking account with Roger's Bank of America and the account is pending for the Bank's administrator approval.
+# Customer registers for a checking account with Roger's Bank of America and the account is pending for the Bank administrator's approval.
 
 
 ![Customer_registers-demo](https://user-images.githubusercontent.com/20470279/103751277-09be6380-4fd6-11eb-95f2-3197fa2349d9.gif)
