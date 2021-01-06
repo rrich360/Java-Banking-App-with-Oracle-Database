@@ -3,36 +3,56 @@
 # Description:
 
 
-This application simulates a customer registering for an account with a bank.
+This application simulates an instance where a customer registers for an account with a bank. The following details below describes how I set up the Oracle database to the java banking application :
 
 
-Details:
+ 	Created SQL scripts that creates users in Oracle database and table schemas for storing your bank users' account information.
+
+ 	This database includes at least 1 or more stored procedures for real-time application.
+
+ 	This bank application connects to the SQL database using JDBC and stores all information that way.
+
+ 	I chose to use the DAO design pattern in java application for data connectivity.
+
+
+
+
+# How it works for customers :
 
 
 •		Customers of the bank are able to register with a username and password, and apply to open an account.
+
 •		Customers are able to apply for joint accounts.
+
 •		Once the account is open, customers are able to withdraw, deposit, and transfer funds between accounts (Savings account).
+
 •		All basic validation is checked thoroughly, such as trying to input negative amounts, overdrawing from accounts etc.
-•		Employees of the bank should be able to view all of their customers information
-•		This includes, account information, Account balances, and Personal information
-•		Employees should be able to approve/deny open applications for accounts
+
+# How it works for employees :
+
+•		Employees of the bank should be able to view all of their customers information.
+
+•		This includes, account information, Account balances, and Personal information.
+
+•		Employees should be able to approve/deny open applications for accounts.
 
 
-# Bank admins should be able to view and edit all accounts
-# This includes:
+# How it works for Bank admins : 
 
-•	Approving/denying accounts
-•	withdrawing, depositing, transferring from all accounts
-•	canceling accounts
-•	JUnit testing is expected
-•	Logging was accomplished using Log4J
-•	All transactions are logged
+• Should be able to view and edit all accounts.
 
--	Create an SQL script that will create a user in Oracle database and a table schema for storing your bank users and account information.
--	Your database should include at least 1 stored procedure.
--	Have your bank application connect to your SQL database using JDBC and store all information that way.
--	You should use the DAO design pattern for data connectivity.
+•	Approving/denying accounts.
 
+•	Withdrawing, depositing, transferring from all accounts.
+
+•	Canceling/deleting accounts.
+
+•	JUnit testing is expected.
+
+•	Log each session (Log4J) so ALL transactions are logged.
+
+
+# Customer registers for a Checking account with Roger's Bank of America
 
 This output includes an example of a customer's information being stored in a database after registering for an account with Roger's Bank of America :
 
