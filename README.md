@@ -7,12 +7,14 @@ This application simulates an instance where a customer registers for an account
 
 
  	Created SQL scripts that creates users in Oracle database and table schemas for storing your bank users' account information.
+  
+ 	Implemented Hash Code method in my JavaBeans API to generate account ID for users in my account table in Oracle.
 
- 	This database includes at least 1 or more stored procedures for real-time application.
+ 	This database includes at least 1 or more stored procedures for real-time application use.
 
  	This bank application connects to the SQL database using JDBC and stores all information that way.
 
- 	I chose to use the DAO design pattern in java application for data connectivity.
+ 	I chose to use the Data Access Object(DAO) design pattern in java application for data connectivity.
 
 
 
