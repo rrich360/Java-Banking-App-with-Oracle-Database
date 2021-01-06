@@ -54,15 +54,21 @@ This application simulates an instance where a customer registers for an account
 •	Log each session (Log4J) so ALL transactions are logged.
 
 
-# The gif demo below exemplifies when a customer registers for a checking account and the account is pending for the Bank Administrator's approval.
+# Customer registers for a new checking account and is pending active :
+
+The gif demo below exemplifies when a customer registers for a checking account and the account is pending for the Bank Administrator's approval.
 
 
 ![Customer_registers-demo](https://user-images.githubusercontent.com/20470279/103751277-09be6380-4fd6-11eb-95f2-3197fa2349d9.gif)
 
 
-# The demo below simulates when the Bank Administrator approves the customer's checking account :
+# Administrator approves the customer's checking account :
 
-![1 3-AdminApprovesCustomer'sAcct](https://user-images.githubusercontent.com/20470279/60501891-ccfc0880-9c8a-11e9-81b1-756fd1744251.JPG)
+The demo below simulates when the Bank Administrator approves the customer's checking account.
+
+![Admin_approves-demo](https://user-images.githubusercontent.com/20470279/103752282-84d44980-4fd7-11eb-917a-e769e3341c64.gif)
+
+
 
 The following picture below is an example of when the customer has access to his or her account and is able to make changes to the account whether it be deposit, withdraw, transfer or add another account :
 
