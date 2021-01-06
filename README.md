@@ -54,18 +54,13 @@ This application simulates an instance where a customer registers for an account
 •	Log each session (Log4J) so ALL transactions are logged.
 
 
-# Customer registers for a Checking account with Roger's Bank of America
-
-This output includes an example of a customer's information being stored in a database after registering for an account with Roger's Bank of America :
-
-![1 0-customerRegisterForChecking](https://user-images.githubusercontent.com/20470279/60501872-c1104680-9c8a-11e9-997e-be1146b75d96.JPG)
+# Customer registers for a checking account with Roger's Bank of America and the account is pending for the Bank's administrator approval.
 
 
-The following picture below is an example of a customer's account pending after registering for the account : 
+![Customer_registers-demo](https://user-images.githubusercontent.com/20470279/103751277-09be6380-4fd6-11eb-95f2-3197fa2349d9.gif)
 
-![1 1-customer'sAcctPending](https://user-images.githubusercontent.com/20470279/60501883-c7062780-9c8a-11e9-812e-1c6e35e42f70.JPG)
 
-The following picture below exemplifies when the Administrator approves the customer's account :
+# The following demo below simulates when the Bank Administrator approves the customer's checking account :
 
 ![1 3-AdminApprovesCustomer'sAcct](https://user-images.githubusercontent.com/20470279/60501891-ccfc0880-9c8a-11e9-81b1-756fd1744251.JPG)
 
