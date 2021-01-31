@@ -56,16 +56,14 @@ This application simulates an instance where a customer registers for an account
 
 # Customer registers for a new checking account and is pending active :
 
-The gif demo below exemplifies when a customer registers for a checking account and the account is pending for the Bank Administrator's approval.
-
 
 ![Customer_registers-demo](https://user-images.githubusercontent.com/20470279/103751277-09be6380-4fd6-11eb-95f2-3197fa2349d9.gif)
 
 
 # Administrator approves the customer's checking account :
 
-The demo below simulates when the Bank Administrator approves the customer's checking account.
 
+![Admin-approves](https://user-images.githubusercontent.com/20470279/106399033-5124ed80-63e4-11eb-8555-c58e0450fbcc.gif)
 
 
 
