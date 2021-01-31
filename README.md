@@ -66,7 +66,6 @@ The gif demo below exemplifies when a customer registers for a checking account 
 
 The demo below simulates when the Bank Administrator approves the customer's checking account.
 
-![Admin_approves-demo](https://user-images.githubusercontent.com/20470279/103752282-84d44980-4fd7-11eb-917a-e769e3341c64.gif)
 
 
 
