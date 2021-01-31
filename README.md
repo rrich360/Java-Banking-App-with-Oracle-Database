@@ -85,27 +85,11 @@ This application simulates an instance where a customer registers for an account
 # Customer decides to transfer funds from their Checking account to their Savings account :
 
 
+![transfer-funds](https://user-images.githubusercontent.com/20470279/106400718-32c3ef80-63ee-11eb-967a-e4938594befa.gif)
 
 
-The following picture below displays an action when the Admin decides to view all accounts or see all accounts available : 
-
-![1 8-AdminViewAllAccts](https://user-images.githubusercontent.com/20470279/60503485-d9ce2b80-9c8d-11e9-962e-c8fd22882ce5.JPG)
-
-The following picture below is an example of when the administrator is transferring money for a customer between two bank accounts. In this case the Admin is transferring $44.50 to the customer's Savings account(Account ID :7) from the customer's Checking Account(Account ID: 6) :
-
-![1 9-AdminTransferMoneyToSavngsForCustomer](https://user-images.githubusercontent.com/20470279/60503493-dc308580-9c8d-11e9-926f-c0f8e0378e20.JPG)
-
-The following picture is the result of when the Admin transferred the $44.50 to the customer's Savings account from their Checking Account. Circled in red, you will see that $44.50 was added to the Savings account :
-
-![1 9-AdminTransferredMoneyDB](https://user-images.githubusercontent.com/20470279/60503498-df2b7600-9c8d-11e9-8140-3116bb5ab068.JPG)
-
-The following picture below is an example of a event where the Admin needs to cancel the user's account whether it be due to inactivity, insufficient funds, or fraudulent activity :
-
-![2 0-AdminDeletingUser](https://user-images.githubusercontent.com/20470279/60503499-e18dd000-9c8d-11e9-9ffb-e19655e31960.JPG)
-
-The following picture below is just confirmation displaying that the user's account no longer exists in the database for reference : 
-
-![2 1-UserGoneAdminDeletedUser](https://user-images.githubusercontent.com/20470279/60503504-e3f02a00-9c8d-11e9-9fbf-1ab203f390a5.JPG)
+# Admin cancels the user's account :
+(Use-case scenario for fraudulent activity, inactivity, or long-period of insufficient funds)
 
 
 
