@@ -67,25 +67,19 @@ This application simulates an instance where a customer registers for an account
 
 
 
-The following picture below is an example of when the customer has access to his or her account and is able to make changes to the account whether it be deposit, withdraw, transfer or add another account :
+# Customer now has access to their account and decides to add Savings account :
+(Savings account is automatically approved because their checking account is verified)
 
-![1 4-CustomerAbleUseAcctAfterApprove](https://user-images.githubusercontent.com/20470279/60501900-cff6f900-9c8a-11e9-80cc-33a7b3baae7b.JPG)
 
-The following picture below is an example of when a customer chooses to add a Savings account with their Checking account. This is typical behavior so logic for this option should be added by default for users in a bank :
+![savings-account-created](https://user-images.githubusercontent.com/20470279/106399352-17ed7d00-63e6-11eb-9014-bc3c494236fb.gif)
 
-![1 5-customerAddSavingsAcct](https://user-images.githubusercontent.com/20470279/60501938-deddab80-9c8a-11e9-92cf-9d6a5e6227f1.JPG)
 
-The following picture below is an example of when a customer deposits money into their Checking account : 
+
+# Customer deposits money into their Checking account : 
 
 ![1 6-CustomerDeposits](https://user-images.githubusercontent.com/20470279/60501948-e2713280-9c8a-11e9-94b8-6b2648ae1d75.JPG)
 
-The following picture below shows confirmation that the customer's accounts have been created, both Checking and Savings. (Checking account ID =6; Savings account =7) : 
 
-![1 6-Customer'sChckng SvngsAcctIDs](https://user-images.githubusercontent.com/20470279/60502767-64ae2680-9c8c-11e9-9f36-cd00dfd4b950.JPG)
-
-The following picture below shows the money deposited in the Oracle Database for the checking account :
-
-![1 6-moneyDeposited](https://user-images.githubusercontent.com/20470279/60502774-67108080-9c8c-11e9-9774-5b70a75c2dcc.JPG)
 
 The following picture below exemplifies when a customer decides to transfer funds from their Checking account to their Savings
 account :
