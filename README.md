@@ -77,17 +77,16 @@ This application simulates an instance where a customer registers for an account
 
 # Customer deposits money into their Checking account : 
 
-![1 6-CustomerDeposits](https://user-images.githubusercontent.com/20470279/60501948-e2713280-9c8a-11e9-94b8-6b2648ae1d75.JPG)
+
+![checkings-deposit](https://user-images.githubusercontent.com/20470279/106399651-f9888100-63e7-11eb-9b1e-0c6543c72570.gif)
 
 
 
-The following picture below exemplifies when a customer decides to transfer funds from their Checking account to their Savings
-account :
+# Customer decides to transfer funds from their Checking account to their Savings account :
+
 ![1 7-customerTransferToSavings](https://user-images.githubusercontent.com/20470279/60502780-6aa40780-9c8c-11e9-8673-7df72ec08d69.JPG)
 
-The following picture below shows confirmation that the funds were transferred and the correct amount is displayed in the Checking account and in the Savings account : 
 
-![1 7-MoneyTransferred](https://user-images.githubusercontent.com/20470279/60502790-6d066180-9c8c-11e9-962f-53c41138e22a.JPG)
 
 The following picture below displays an action when the Admin decides to view all accounts or see all accounts available : 
 
