@@ -84,7 +84,6 @@ This application simulates an instance where a customer registers for an account
 
 # Customer decides to transfer funds from their Checking account to their Savings account :
 
-![1 7-customerTransferToSavings](https://user-images.githubusercontent.com/20470279/60502780-6aa40780-9c8c-11e9-8673-7df72ec08d69.JPG)
 
 
 
