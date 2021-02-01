@@ -99,7 +99,7 @@ This application simulates an instance where a customer registers for an account
 
 
 
-
+![admin-deletes-account](https://user-images.githubusercontent.com/20470279/106413062-24d69480-6417-11eb-92c6-1b66535ee526.gif)
 
 
 
