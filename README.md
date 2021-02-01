@@ -95,7 +95,7 @@ This application simulates an instance where a customer registers for an account
 
 
 # Admin cancels the user's account :
-(Use-case scenario for fraudulent activity, inactivity, or long-period of insufficient funds)
+(Use-case scenario for fraudulent activity, inactivity, long-period of insufficient funds, or customer decides to cancel their account)
 
 
 
