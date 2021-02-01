@@ -54,6 +54,9 @@ This application simulates an instance where a customer registers for an account
 •	Log each session (Log4J) so ALL transactions are logged.
 
 
+# Error handling if user enters incorrect option :
+
+
 # Customer registers for a new checking account and is pending active :
 
 
