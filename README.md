@@ -57,6 +57,9 @@ This application simulates an instance where a customer registers for an account
 # Error handling if user enters incorrect option :
 
 
+![exception-out-of-bounds-caught](https://user-images.githubusercontent.com/20470279/106412950-dde89f00-6416-11eb-909f-a245903c5e9d.gif)
+
+
 # Customer registers for a new checking account and is pending active :
 
 
